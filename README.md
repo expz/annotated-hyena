@@ -4,6 +4,8 @@ Code for the Annotated Hyena blog post:
 
 [https://medium.com/@jskowera/the-annotated-hyena-3e50e0aa372a](https://medium.com/@jskowera/the-annotated-hyena-3e50e0aa372a)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/expz/annotated-hyena/blob/master/annotated_hyena.ipynb)
+
 ## Dependencies
 
 From the root directory of this repository, run:
