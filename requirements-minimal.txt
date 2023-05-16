@@ -1,0 +1,7 @@
+datasets
+lightning
+notebook
+numpy
+regex
+torch
+wandb
